@@ -1,0 +1,34 @@
+#firstdiv {
+
+    background-color: lightsalmon;
+    text-align: center;
+    width: auto;
+    border: darkolivegreen;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+#seconddiv {
+
+    width: auto;
+    border: 15px black;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+body {
+    text-align: center;
+
+}
+
+footer {
+
+    background-color: darkorange;
+    width: auto;
+    border: darkorange;
+    padding: 50px;
+    margin: 20px;
+
+}
